@@ -1,0 +1,11 @@
+{
+  "name": "norit-cotizador",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mariadb": "^3.3.0"
+  }
+}
